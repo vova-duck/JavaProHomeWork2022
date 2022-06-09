@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b06d872-ea3b-4540-86ab-a1923afa77d9" name="Changes" comment="1.added variables and SOUTs)">
+    <list default="true" id="0b06d872-ea3b-4540-86ab-a1923afa77d9" name="Changes" comment="1.made bank calculator, it's pretty accurate, but there's room to make it better.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork_02/AverageOfMany.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork_02/AverageOfMany.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/HomeWork_02/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork_02/Bank.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +38,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Bank">
+  <component name="RunManager" selected="Application.AverageOfMany">
     <configuration name="AverageForTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HomeWork_02.AverageForTwoNumbers" />
       <module name="JavaProHomeWork2022" />
@@ -92,8 +93,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Bank" />
         <item itemvalue="Application.AverageOfMany" />
+        <item itemvalue="Application.Bank" />
         <item itemvalue="Application.AverageForTwoNumbers" />
         <item itemvalue="Application.Main" />
       </list>
@@ -171,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654767150040</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="1.made back calculator, it's pretty accurate, but there's room to make it better.">
+      <created>1654783236289</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1654783236289</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -195,6 +203,7 @@
     <MESSAGE value="1.fixed method giveString()&#10;2.Created program that calculates average between a bunch of numbers" />
     <MESSAGE value="1. fixed average calculator. Not perfect, but its working;)" />
     <MESSAGE value="1.added variables and SOUTs)" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.added variables and SOUTs)" />
+    <MESSAGE value="1.made back calculator, it's pretty accurate, but there's room to make it better." />
+    <option name="LAST_COMMIT_MESSAGE" value="1.made back calculator, it's pretty accurate, but there's room to make it better." />
   </component>
 </project>
