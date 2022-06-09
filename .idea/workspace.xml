@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b06d872-ea3b-4540-86ab-a1923afa77d9" name="Changes" comment="1.fixed bank calculator. Not it shows the as accurate as it can&#10;2. Recoded Average calculator. now Its asking numbers constantly without asking how many numbers expected. But if you write down empty String witch is &quot;stop word&quot; it shows message that you have to put only numerous value.">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork_03/FactorialFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork_03/FactorialWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork_03/ForFrom1To99.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork_03/WhileFrom1to99.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0b06d872-ea3b-4540-86ab-a1923afa77d9" name="Changes" comment="1.created few cycle tasks" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -204,7 +197,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654806655193</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="1.created few cycle tasks">
+      <created>1654816514467</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1654816514467</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -230,6 +230,7 @@
     <MESSAGE value="1.added variables and SOUTs)" />
     <MESSAGE value="1.made back calculator, it's pretty accurate, but there's room to make it better." />
     <MESSAGE value="1.fixed bank calculator. Not it shows the as accurate as it can&#10;2. Recoded Average calculator. now Its asking numbers constantly without asking how many numbers expected. But if you write down empty String witch is &quot;stop word&quot; it shows message that you have to put only numerous value." />
-    <option name="LAST_COMMIT_MESSAGE" value="1.fixed bank calculator. Not it shows the as accurate as it can&#10;2. Recoded Average calculator. now Its asking numbers constantly without asking how many numbers expected. But if you write down empty String witch is &quot;stop word&quot; it shows message that you have to put only numerous value." />
+    <MESSAGE value="1.created few cycle tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.created few cycle tasks" />
   </component>
 </project>
