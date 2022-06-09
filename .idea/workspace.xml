@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b06d872-ea3b-4540-86ab-a1923afa77d9" name="Changes" comment="1.made bank calculator, it's pretty accurate, but there's room to make it better.">
+    <list default="true" id="0b06d872-ea3b-4540-86ab-a1923afa77d9" name="Changes" comment="1.fixed bank calculator. Not it shows the as accurate as it can&#10;2. Recoded Average calculator. now Its asking numbers constantly without asking how many numbers expected. But if you write down empty String witch is &quot;stop word&quot; it shows message that you have to put only numerous value.">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork_03/FactorialFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork_03/FactorialWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork_03/ForFrom1To99.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork_03/WhileFrom1to99.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork_02/AverageOfMany.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork_02/AverageOfMany.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork_02/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork_02/Bank.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,26 +35,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.AverageOfMany">
-    <configuration name="AverageForTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork_02.AverageForTwoNumbers" />
-      <module name="JavaProHomeWork2022" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HomeWork_02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}]]></component>
+  <component name="RunManager" selected="Application.FactorialWhile">
     <configuration name="AverageOfMany" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HomeWork_02.AverageOfMany" />
       <module name="JavaProHomeWork2022" />
@@ -65,12 +56,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork_02.Bank" />
+    <configuration name="FactorialFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork_03.FactorialFor" />
       <module name="JavaProHomeWork2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeWork_02.*" />
+          <option name="PATTERN" value="HomeWork_03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +69,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StudentSystemID.Main" />
+    <configuration name="FactorialWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork_03.FactorialWhile" />
       <module name="JavaProHomeWork2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StudentSystemID.*" />
+          <option name="PATTERN" value="HomeWork_03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeWork_03.ForFrom1To99" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork_03.ForFrom1To99" />
+      <module name="JavaProHomeWork2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork_03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhileFrom1to99" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork_03.WhileFrom1to99" />
+      <module name="JavaProHomeWork2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork_03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,10 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FactorialWhile" />
+        <item itemvalue="Application.WhileFrom1to99" />
+        <item itemvalue="Application.FactorialFor" />
+        <item itemvalue="Application.HomeWork_03.ForFrom1To99" />
         <item itemvalue="Application.AverageOfMany" />
-        <item itemvalue="Application.Bank" />
-        <item itemvalue="Application.AverageForTwoNumbers" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +197,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654783236289</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="1.fixed bank calculator. Not it shows the as accurate as it can&#10;2. Recoded Average calculator. now Its asking numbers constantly without asking how many numbers expected. But if you write down empty String witch is &quot;stop word&quot; it shows message that you have to put only numerous value.">
+      <created>1654806655193</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1654806655193</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -204,6 +229,7 @@
     <MESSAGE value="1. fixed average calculator. Not perfect, but its working;)" />
     <MESSAGE value="1.added variables and SOUTs)" />
     <MESSAGE value="1.made back calculator, it's pretty accurate, but there's room to make it better." />
-    <option name="LAST_COMMIT_MESSAGE" value="1.made back calculator, it's pretty accurate, but there's room to make it better." />
+    <MESSAGE value="1.fixed bank calculator. Not it shows the as accurate as it can&#10;2. Recoded Average calculator. now Its asking numbers constantly without asking how many numbers expected. But if you write down empty String witch is &quot;stop word&quot; it shows message that you have to put only numerous value." />
+    <option name="LAST_COMMIT_MESSAGE" value="1.fixed bank calculator. Not it shows the as accurate as it can&#10;2. Recoded Average calculator. now Its asking numbers constantly without asking how many numbers expected. But if you write down empty String witch is &quot;stop word&quot; it shows message that you have to put only numerous value." />
   </component>
 </project>
