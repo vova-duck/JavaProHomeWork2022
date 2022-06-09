@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b06d872-ea3b-4540-86ab-a1923afa77d9" name="Changes" comment="1.fixed method giveString()&#10;2.Created program that calculates average between a bunch of numbers">
+    <list default="true" id="0b06d872-ea3b-4540-86ab-a1923afa77d9" name="Changes" comment="1. fixed average calculator. Not perfect, but its working;)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork_02/AverageOfMany.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork_02/AverageOfMany.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork_02/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork_02/Bank.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654692088330</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="1. fixed average calculator. Not perfect, but its working;)">
+      <created>1654715528708</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1654715528708</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -165,6 +172,7 @@
     <MESSAGE value="learning gits possibilities. added semicolon" />
     <MESSAGE value="1. added Utils folder.&#10;2. created program that calculates average between 2 numbers&#10;3. created Bank class" />
     <MESSAGE value="1.fixed method giveString()&#10;2.Created program that calculates average between a bunch of numbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.fixed method giveString()&#10;2.Created program that calculates average between a bunch of numbers" />
+    <MESSAGE value="1. fixed average calculator. Not perfect, but its working;)" />
+    <option name="LAST_COMMIT_MESSAGE" value="1. fixed average calculator. Not perfect, but its working;)" />
   </component>
 </project>
