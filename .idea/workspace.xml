@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b06d872-ea3b-4540-86ab-a1923afa77d9" name="Changes" comment="1. created array filled with odd numbers&#10;2.create program that bring number to degree&#10;3.finding max, min and exchanging them in array.&#10;4.program that prints 20 numbers with -5 step&#10;5.program multiplication table">
+    <list default="true" id="0b06d872-ea3b-4540-86ab-a1923afa77d9" name="Changes" comment="1.added comments">
+      <change afterPath="$PROJECT_DIR$/src/HomeWork_04/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork_04/Run.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork_03/ChessSheet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork_03/ChessSheet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork_03/Degree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork_03/Degree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -234,7 +234,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655031304076</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="1.added comments">
+      <created>1655065518926</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1655065518926</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -264,6 +271,7 @@
     <MESSAGE value="1. added hot keys sheet" />
     <MESSAGE value="1. DoWhile tasks" />
     <MESSAGE value="1. created array filled with odd numbers&#10;2.create program that bring number to degree&#10;3.finding max, min and exchanging them in array.&#10;4.program that prints 20 numbers with -5 step&#10;5.program multiplication table" />
-    <option name="LAST_COMMIT_MESSAGE" value="1. created array filled with odd numbers&#10;2.create program that bring number to degree&#10;3.finding max, min and exchanging them in array.&#10;4.program that prints 20 numbers with -5 step&#10;5.program multiplication table" />
+    <MESSAGE value="1.added comments" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.added comments" />
   </component>
 </project>

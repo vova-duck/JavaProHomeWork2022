@@ -11,12 +11,12 @@ import java.io.IOException;
 public class Bank {
     public static void main(String[] args) throws IOException {
         System.out.println("type how many money you put into deposit");
-        double deposit = Utils.giveInt();
+        double deposit = Utils.typeInt();
         System.out.println("type how many years you'll keep that money on bank account");
-        int depositYears = Utils.giveInt();
+        int depositYears = Utils.typeInt();
         int monthsInTheYear = 12;
         System.out.println("type your percentage");
-        float percentage  = Utils.giveInt() * 0.01f;
+        float percentage  = Utils.typeInt() * 0.01f;
         double finalDeposit;
         for (int i = 1; i < depositYears +1; i++) {
             finalDeposit =  (deposit * Math.pow((1+ percentage/monthsInTheYear),monthsInTheYear));

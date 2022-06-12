@@ -7,9 +7,9 @@ import java.io.IOException;
 public class Degree {
     public static void main(String[] args) throws IOException {
         System.out.println("type number");
-        double a = Utils.giveInt();
+        double a = Utils.typeInt();
         System.out.println("Type degree to get number at ");
-        double b = Utils.giveInt();
+        double b = Utils.typeInt();
         System.out.println(Math.pow(a, b)+" is "+ a +" in "+ b +" degree");
         // added custom way to bring to degree
         double answer = 1;

@@ -14,7 +14,7 @@ public class AverageOfMany {
         String input = "line";
         while (!input.equals("")){
             System.out.println("type numbers to add or push ENTER to calculate");
-            try{sum+=Integer.parseInt(input = Utils.giveString());
+            try{sum+=Integer.parseInt(input = Utils.typeString());
                 count++;
             }
             catch (NumberFormatException wft){

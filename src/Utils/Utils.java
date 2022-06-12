@@ -11,10 +11,10 @@ public class Utils {
     public Utils(){
 
     }
-    public static String giveString() throws IOException {
+    public static String typeString() throws IOException {
         return reader.readLine();
     }
-    public static int giveInt() throws  IOException {
+    public static int typeInt() throws  IOException {
         return Integer.parseInt(reader.readLine());
     }
     public static int getRandomNumber(int min, int max) {

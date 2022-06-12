@@ -7,7 +7,7 @@ import java.io.IOException;
 public class MultiplicationTable {
     public static void main(String[] args) throws IOException {
         System.out.println("type number to get multiplication table");
-        int number = Utils.giveInt();
+        int number = Utils.typeInt();
         for (int i = 0; i <= 10; i++) {
             System.out.println(number+" * "+ i +" = "+ (number*i));
 

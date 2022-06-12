@@ -8,7 +8,7 @@ import java.io.IOException;
 public class FactorialFor {
     public static void main(String[] args) throws IOException {
         System.out.println("type number for calculating factorial");
-        int n = Utils.giveInt();
+        int n = Utils.typeInt();
         int result = 1;
         for (int i =1; i < n+1; i++) {
             result =result * i;
