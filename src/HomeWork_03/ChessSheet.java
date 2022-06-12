@@ -12,7 +12,6 @@ public class ChessSheet {
                 }else {
                     System.out.print(white+ " ");
                 }
-
             }
         }
     }
