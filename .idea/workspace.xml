@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b06d872-ea3b-4540-86ab-a1923afa77d9" name="Changes" comment="1. added hot keys sheet">
-      <change afterPath="$PROJECT_DIR$/src/HomeWork_03/FactorialDoWhile.java" afterDir="false" />
+    <list default="true" id="0b06d872-ea3b-4540-86ab-a1923afa77d9" name="Changes" comment="1. DoWhile tasks">
+      <change afterPath="$PROJECT_DIR$/src/HomeWork_03/ArrayWithOddNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork_03/ChessSheet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork_03/Degree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork_03/ExchangeMinimumAndMaximum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork_03/FindingMaximumNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork_03/FindingMinimalNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork_03/MultiplicationTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork_03/StepMinusFive.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Utils/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Utils/Utils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,9 +51,9 @@
       <recent name="$PROJECT_DIR$/Useful_things" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DoWhileFrom1To99">
-    <configuration name="DoWhileFrom1To99" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork_03.DoWhileFrom1To99" />
+  <component name="RunManager" selected="Application.FindingMaximumNumber">
+    <configuration name="FindingMaximumNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork_03.FindingMaximumNumber" />
       <module name="JavaProHomeWork2022" />
       <extension name="coverage">
         <pattern>
@@ -57,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FactorialDoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork_03.FactorialDoWhile" />
+    <configuration name="HomeWork_03.ArrayWithOddNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork_03.ArrayWithOddNumbers" />
       <module name="JavaProHomeWork2022" />
       <extension name="coverage">
         <pattern>
@@ -70,8 +78,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FactorialFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork_03.FactorialFor" />
+    <configuration name="HomeWork_03.FindingMinimalNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork_03.FindingMinimalNumber" />
       <module name="JavaProHomeWork2022" />
       <extension name="coverage">
         <pattern>
@@ -83,8 +91,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FactorialWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork_03.FactorialWhile" />
+    <configuration name="HomeWork_03.MultiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork_03.MultiplicationTable" />
       <module name="JavaProHomeWork2022" />
       <extension name="coverage">
         <pattern>
@@ -96,8 +104,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileFrom1to99" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork_03.WhileFrom1to99" />
+    <configuration name="StepMinusFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork_03.StepMinusFive" />
       <module name="JavaProHomeWork2022" />
       <extension name="coverage">
         <pattern>
@@ -111,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DoWhileFrom1To99" />
-        <item itemvalue="Application.FactorialDoWhile" />
-        <item itemvalue="Application.FactorialWhile" />
-        <item itemvalue="Application.WhileFrom1to99" />
-        <item itemvalue="Application.FactorialFor" />
+        <item itemvalue="Application.FindingMaximumNumber" />
+        <item itemvalue="Application.HomeWork_03.FindingMinimalNumber" />
+        <item itemvalue="Application.HomeWork_03.ArrayWithOddNumbers" />
+        <item itemvalue="Application.HomeWork_03.MultiplicationTable" />
+        <item itemvalue="Application.HomeWork_03.StepMinusFive" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +227,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654816860960</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="1. DoWhile tasks">
+      <created>1654892307577</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1654892307577</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -247,6 +262,7 @@
     <MESSAGE value="1.fixed bank calculator. Not it shows the as accurate as it can&#10;2. Recoded Average calculator. now Its asking numbers constantly without asking how many numbers expected. But if you write down empty String witch is &quot;stop word&quot; it shows message that you have to put only numerous value." />
     <MESSAGE value="1.created few cycle tasks" />
     <MESSAGE value="1. added hot keys sheet" />
-    <option name="LAST_COMMIT_MESSAGE" value="1. added hot keys sheet" />
+    <MESSAGE value="1. DoWhile tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="1. DoWhile tasks" />
   </component>
 </project>

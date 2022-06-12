@@ -17,4 +17,7 @@ public class Utils {
     public static int giveInt() throws  IOException {
         return Integer.parseInt(reader.readLine());
     }
+    public static int getRandomNumber(int min, int max) {
+        return (int) ((Math.random() * (max - min)) + min);
+    }
 }
