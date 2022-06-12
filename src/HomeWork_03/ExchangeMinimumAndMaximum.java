@@ -1,7 +1,8 @@
 package HomeWork_03;
 
 import Utils.Utils;
-
+//Поменять наибольший и наименьший элементы массива местами.
+//Пример: дан массив {4, -5, 0, 6, 8}. После замены будет выглядеть {4, 8, 0, 6, -5}.
 public class ExchangeMinimumAndMaximum {
     public static void main(String[] args) {
         int[] numbers = new int [10];

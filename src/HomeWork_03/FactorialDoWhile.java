@@ -1,7 +1,7 @@
 package HomeWork_03;
 
 import Utils.Utils;
-
+//Дано число n при помощи цикла DoWhile посчитать факториал n!
 import java.io.IOException;
 
 public class FactorialDoWhile {

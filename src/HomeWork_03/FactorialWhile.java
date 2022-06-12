@@ -2,7 +2,7 @@ package HomeWork_03;
 //Дано число n при помощи цикла while посчитать факториал n!
 
 import Utils.Utils;
-
+//Дано число n при помощи цикла While посчитать факториал n!
 import java.io.IOException;
 
 public class FactorialWhile {
