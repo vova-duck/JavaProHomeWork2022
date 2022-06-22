@@ -10,8 +10,14 @@ public class Car {
 
     public Car() {
         this.tankVolume = 50;
-        this.consumption = Utils.getRandomNumber(1,50);
-        this.remainder = 7.5f;
+        this.consumption = 7.5f;
+        this.remainder = Utils.getRandomNumber(1,50);
+    }
+
+    public Car(float tankVolume, float consumption, float remainder){
+        this.tankVolume = tankVolume;
+        this.consumption = consumption;
+        this.remainder = remainder;
     }
 
     public float getWholeConsumption() {
@@ -45,14 +51,35 @@ public class Car {
     public void setRemainder(float remainder) {
         this.remainder = remainder;
     }
-    public float fullFillTank(){
-        return 0;
+    public double fullFullTank(){
+        System.out.println("бак заправлен на " + (tankVolume - remainder) + " л." );
+       wholeConsumption += tankVolume - remainder;
+
+        return remainder = tankVolume;
     }
-    public float indicateConsumption(){
-        return 0;
+    public  double countFuelRemain(int way){
+        if (way * consumption / 100 >= remainder) {
+            System.out.println("Not enough fuel. Full fill your tank");
+            fullFullTank();
+            remainder -= way * consumption / 100;
+            return remainder;
+        }
+        System.out.println("After taking  " + way + " kilometers remainder is  "
+                + (remainder -= way * consumption / 100)+ "л.");
+
+        return getRemainder();
+
     }
-    public float checkNeededFuel(){
-        return 0;
+    public  double indicateFuel (int way ){
+        if (way * consumption / 100 <= remainder){
+            System.out.println(" There`s enough fuel. In tank " + remainder+ "litters of fuel");
+            return 0;
+        }
+        else
+            System.out.println("For taking way you need "+
+                    ((way * consumption / 100) - remainder) +"litters of fuel");
+        return((way * consumption / 100) - remainder);
+
     }
 
 
